@@ -2,6 +2,7 @@
 declare (strict_types=1);
 
 
+
 //3. Variables, Data Tyoes, Concatenation, Conditional Statements & Echo
 
 $firstName = "Jessica Gilfillan"; //stream_set_blocking

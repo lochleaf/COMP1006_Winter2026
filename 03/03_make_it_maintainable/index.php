@@ -5,6 +5,12 @@
     - Repetition will become a problem
 
     How can we refactor this code so it’s easier to maintain?
+
+My Comment:
+
+I learned how to include other files and separate PHP logic from HTML
+so the code is easier to maintain and does not affect scalability.
+
 */
 
 $items = ["Home", "About", "Contact"];

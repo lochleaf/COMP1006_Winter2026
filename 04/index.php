@@ -14,7 +14,7 @@
         <input type="text" id="phone" name="phone" placeholder="555-123-4567">
         <label for="address">Address</label>
         <input type="text" id="address" name="address">
-        <label for="email">Address</label>
+        <label for="email">Email</label>
         <input type="text" id="email" name="email">
     </fieldset>
 
